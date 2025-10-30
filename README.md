@@ -58,3 +58,31 @@ A simple, clean, and interactive interface for everyday use.
 ```bash
 git clone https://github.com/userManny/Nutrimate.git
 cd Nutrimate
+2️⃣ Install Dependencies
+
+Make sure you have Python (3.8 or higher) installed.
+Then install the required library:
+
+pip install requests
+
+3️⃣ Run the App
+python main.py
+
+🎥 Demo Video
+
+👉 Click here to watch the demo video
+
+💡 If the video doesn’t play directly, click “View raw” on GitHub or download it to watch locally.
+
+💡 Future Improvements
+
+Add database storage for long-term progress tracking
+
+Include macronutrient ratio visualization
+
+Mobile-friendly version using Kivy or a web framework
+
+🏁 Conclusion
+
+NutriMate v2 offers a practical, beginner-friendly, and motivational approach to daily nutrition tracking.
+It’s designed to make healthy living simpler, smarter, and more enjoyable!
