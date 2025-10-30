@@ -67,12 +67,15 @@ Then install the required library:
 pip install requests
 
 pip install requests
+---
 
-## 🎥 Demo Video
 
+## 🌐 Demo Video
 👉 [**Click here to watch the demo video**](https://github.com/userManny/Nutrimate/blob/main/demo.mp4)
 
 💡 *If the video doesn’t play directly, click “View raw” on GitHub or download it to watch locally.*
+
+
 
 ---
 
