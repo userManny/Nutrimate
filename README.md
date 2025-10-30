@@ -70,25 +70,7 @@ pip install requests
 ---
 
 
-## 🌐 Demo Video
-👉 [**Click here to watch the demo video**](https://github.com/userManny/Nutrimate/blob/main/demo.mp4)
-
-💡 *If the video doesn’t play directly, click “View raw” on GitHub or download it to watch locally.*
 
 
 
----
-
-## 💡 Future Improvements
-
-- Add **database storage** for long-term progress tracking  
-- Include **macronutrient ratio visualization**  
-- Create a **mobile-friendly version** using **Kivy** or a **web framework**  
-
----
-
-## 🏁 Conclusion
-
-**NutriMate v2** offers a **practical**, **beginner-friendly**, and **motivational** approach to daily nutrition tracking.  
-It’s designed to make healthy living **simpler, smarter, and more enjoyable!**  
 
