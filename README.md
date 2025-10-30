@@ -68,6 +68,18 @@ pip install requests
 
 pip install requests
 ---
+## 💡 Future Improvements
+
+- 🗃️ **Database Storage** — Enable long-term progress tracking and user data persistence  
+- 📊 **Macronutrient Visualization** — Display detailed breakdowns of proteins, carbs, and fats  
+- 📱 **Mobile-Friendly Version** — Build using **Kivy** or a **web framework** for accessibility across devices  
+
+---
+
+## 🏁 Conclusion
+
+**NutriMate v2** provides a **practical**, **beginner-friendly**, and **motivational** solution for daily nutrition tracking.  
+It’s crafted to make healthy living **simpler**, **smarter**, and **more enjoyable!** 🌿
 
 
 
