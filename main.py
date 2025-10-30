@@ -3,12 +3,12 @@
 
 import tkinter as tk
 from tkinter import messagebox
-import requests  # ✅ Added for API use
+import requests  #  Added for API use
 
 # -----------------------------
 # API Configuration
 # -----------------------------
-API_KEY = "b5497ce09727400c8517360450b5732b"  # 🔑 Add your API key here
+API_KEY = "b5497ce09727400c8517360450b5732b"  #  API key 
 
 def fetch_nutrition_online(food_name):
     """
